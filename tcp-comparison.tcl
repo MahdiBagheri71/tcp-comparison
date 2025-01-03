@@ -1,5 +1,3 @@
-# tcp-comparison.tcl
-
 # Create simulator
 set ns [new Simulator]
 
